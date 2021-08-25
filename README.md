@@ -8,5 +8,5 @@ It has a clean and polished, responsive user interface that adapts to multiple s
 
 [Click here](https://mandy2324.github.io/Password-Generator/) for the application deployed at live URL.
 
-![The Password Generator application displays a red button to "Generate Password".](.//assets\images\03-javascript-homework-demo.png)
+![The Password Generator application displays a red button to "Generate Password".](.//assets/images/03-javascript-homework-demo.png)
 
